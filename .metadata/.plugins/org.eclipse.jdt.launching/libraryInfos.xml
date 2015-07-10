@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInfos>
+<libraryInfo home="E:\eclipse_emp" version="1.5.0_04">
+<bootpath>
+<entry path="E:\eclipse_emp\jre\lib\rt.jar"/>
+<entry path="E:\eclipse_emp\jre\lib\i18n.jar"/>
+<entry path="E:\eclipse_emp\jre\lib\sunrsasign.jar"/>
+<entry path="E:\eclipse_emp\jre\lib\jsse.jar"/>
+<entry path="E:\eclipse_emp\jre\lib\jce.jar"/>
+<entry path="E:\eclipse_emp\jre\lib\charsets.jar"/>
+<entry path="E:\eclipse_emp\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\eclipse_emp\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\eclipse_emp\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
