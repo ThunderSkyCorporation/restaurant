@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: commonLib,Liana
+Specification-Title: Liana,YuChengTech CO,Beijing.
+Specification-Version: 1.0.0
+Specification-Vendor: YuChengTech CO,Beijing.
+Implementation-Title: Liana
+Implementation-Version: 1.0.0 201006131545
+Implementation-Vendor: YuChengTech CO,Beijing
+Specification-Authors: liangqiang chenyang sunyawei qiuweizhi
+  zhangpeng luoguosheng liujunli wendehua langke chentiantian
